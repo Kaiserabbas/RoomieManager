@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968562524222",
+    "project_id": "roomiemanager-bca93",
+    "storage_bucket": "roomiemanager-bca93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968562524222:android:a5975541d3897c7b9b916f",
+        "android_client_info": {
+          "package_name": "com.roomiemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTgeYVTVakqwUQlo3aN16gA60J3KDbjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
